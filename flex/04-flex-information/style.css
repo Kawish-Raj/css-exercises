@@ -31,6 +31,8 @@ img {
   display:flex;
   padding: 0 50px;
   gap: 52px;
+  justify-content: center;
+
 }
 
 .item {
